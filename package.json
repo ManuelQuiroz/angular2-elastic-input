@@ -1,0 +1,33 @@
+{
+  "name": "angular2-elastic-input",
+  "version": "1.0.0",
+  "description": "Angular 2 directive for auto-sizing textarea HTML tags with user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobox-team/angular2-elastic-input.git"
+  },
+  "keywords": [
+    "angular2",
+    "elastic-input",
+    "angular2-elastic-input",
+    "angular",
+    "textarea",
+    "input"
+  ],
+  "author": "Jourdan Bul-lalayao <jourdan@joboxapp.com> (www.jourdanb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobox-team/angular2-elastic-input/issues"
+  },
+  "homepage": "https://github.com/jobox-team/angular2-elastic-input#readme",
+  "devDependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "rxjs": "^5.0.0-rc.1",
+    "typescript": "^2.0.6"
+  },
+  "typings": ".index.d.ts"
+}
